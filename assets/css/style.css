@@ -584,7 +584,7 @@ section {
 .team_member{font-weight: bold;}
 .team_member .feature_img{text-align: center;height: 300px;margin-bottom:20px;}
 .team_member .feature_img img{max-width:80%;max-height: 300px;}
-.team_member .feature_heading{margin-bottom: 30px;}
+.team_member .feature_heading{margin-bottom: 30px;margin-top:70px;}
 .team_member .feature_heading h2{font-size: 35px;}
 .team_member .feature_heading h4{}
 .team_member .details{margin-top: 50px;}
@@ -1090,6 +1090,8 @@ section {
   .our_service .service_item_des h3 { font-size: 15px;color:#000;}
   .management .line{display: none;}
   .management .feature_img{height:220px;}
+  .management .col-md-6.aos-init.aos-animate:nth-child(2) .feature_heading {margin-top:70px;}
+  .team_member .col-md-4:first-child .feature_heading{margin-top:30px;}
   .management .details{width:85%;}
   .team_member .feature_img{height:210px;}
   .feaure_blog .feature_img{text-align: center;}
