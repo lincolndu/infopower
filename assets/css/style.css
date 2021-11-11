@@ -1089,7 +1089,6 @@ section {
   .our_service .service_item_des h2 {font-size:20px;line-height:22px;color:#000;}
   .our_service .service_item_des h3 { font-size: 15px;color:#000;}
   .management .line{display: none;}
-  .management .feature_img{height:220px;}
   .management .col-md-6.aos-init.aos-animate:nth-child(2) .feature_heading {margin-top:70px;}
   .team_member .col-md-4:first-child .feature_heading{margin-top:30px;}
   .management .details{width:85%;}
