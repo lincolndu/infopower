@@ -1036,10 +1036,11 @@ section {
 
 /*Responsive CSS*/
 @media screen and (max-width:500px) {
+  #header { padding: 10px 0;}
   #hero {
     height:inherit;
     background-size: 178% 250px;
-    margin-top: 83px;
+    margin-top: 60px;
     padding-bottom: 0px;
   }
   #hero + section {
