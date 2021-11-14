@@ -1105,7 +1105,8 @@ section {
   .management .col-md-6.aos-init.aos-animate:nth-child(2) .feature_heading {margin-top:70px;}
   .team_member .col-md-4:first-child .feature_heading{margin-top:30px;}
   .management .details{width:85%;}
-  .team_member .feature_img{height:210px;}
+  .team_member .feature_img{height:fit-content;}
+  .team_member .feature_heading{margin-top:30px;}
   .feaure_blog .feature_img{text-align: center;}
   .feaure_blog .feature_img img{width:80%;}
   .right_image{background:none;}
