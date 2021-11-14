@@ -1036,6 +1036,18 @@ section {
 
 /*Responsive CSS*/
 @media screen and (max-width:500px) {
+  #hero {
+    height:inherit;
+    background-size: 178% 250px;
+    margin-top: 83px;
+    padding-bottom: 0px;
+  }
+  #hero + section {
+    padding: 10px 0;
+  }
+  .topdescription {
+    margin-top: 16vh;
+  }  
   .visionMission .missionImage{
     width: 200px;
     height: 133px;
